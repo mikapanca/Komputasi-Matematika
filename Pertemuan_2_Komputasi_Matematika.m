@@ -1,3 +1,6 @@
+clc
+clear
+
 % n = input ('nilai:');
 % if n>=70
 %     disp('anda lulus');
@@ -70,6 +73,7 @@ for i =1:10
         disp(i);
     end
 end
+
 
 
 
